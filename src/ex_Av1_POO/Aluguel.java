@@ -8,6 +8,6 @@ public class Aluguel {
     private double valorFinal;
 
     public double calculaValorFinal(){
-        return
+        return 0;
     }
 }
