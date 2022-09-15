@@ -81,23 +81,23 @@ Configurando o seletor 1 e 2 para 1 e 1, respectivamente, obtém-se a porta lóg
 
 <h3>Cenário 3:<br />
 Operando A: 5 (00000101)<br />
-Operando B: -3 (11111011)<h6>
+Operando B: -3 (11111101)<h6>
 
 
 AND<br />
-Configurando o seletor 1 e 2 para 0 e 0, respectivamente, obtém-se a porta lógica AND. Por meio dela é possível conseguir o valor 00000001 em binário (01 em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
+Configurando o seletor 1 e 2 para 0 e 0, respectivamente, obtém-se a porta lógica AND. Por meio dela é possível conseguir o valor 00000101 em binário (05 em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
 
 OR <br />
-Configurando o seletor 1 e 2 para 0 e 1, respectivamente, obtém-se a porta lógica OR. Por meio dela é possível conseguir o valor 11111111 em binário (FF em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
+Configurando o seletor 1 e 2 para 0 e 1, respectivamente, obtém-se a porta lógica OR. Por meio dela é possível conseguir o valor 11111101 em binário (FD em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
 
 
 XOR<br />
-Configurando o seletor 1 e 2 para 1 e 0, respectivamente, obtém-se a porta lógica XOR. Por meio dela, é possível conseguir, através de uma operação bitwise, o valor 11111110 em binário (FE em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
+Configurando o seletor 1 e 2 para 1 e 0, respectivamente, obtém-se a porta lógica XOR. Por meio dela, é possível conseguir, através de uma operação bitwise, o valor 11111000 em binário (F8 em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente.
 
 
 
 SOMA<br />
-Configurando o seletor 1 e 2 para 1 e 1, respectivamente, obtém-se a porta lógica SOMA. Por meio dela é possível conseguir o valor  00000001 em binário (01 em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente
+Configurando o seletor 1 e 2 para 1 e 1, respectivamente, obtém-se a porta lógica SOMA. Por meio dela é possível conseguir o valor  00000010 em binário (02 em Hexadecimal). Dessa forma, concluímos que a porta lógica especificada está funcionando corretamente
 
 <h3>Cenário 4:<br />
 Operando A: 21 (00010101)<br />
