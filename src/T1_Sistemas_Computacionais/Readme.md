@@ -11,7 +11,7 @@ Operando A: 00000101 <br />
 Operando B: 00000001
 
 
-![alt text]![Screenshot](screenshot.png) 
+ 
 
 
 <br />Feito isso, basta escolher a operação desejada: <br />
